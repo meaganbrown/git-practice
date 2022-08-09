@@ -7,4 +7,9 @@ execute:
   message: false
 ---
 
-## 
+Add some awesome text
+
+```{r}
+cool <- c(1,2,3)
+```
+
