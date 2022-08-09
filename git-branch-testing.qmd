@@ -13,3 +13,9 @@ Add some awesome text
 cool <- c(1,2,3)
 ```
 
+making changes ;)
+
+```{r}
+sup <- c(2,4,6)
+```
+
